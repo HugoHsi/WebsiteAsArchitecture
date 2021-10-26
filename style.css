@@ -25,4 +25,9 @@ body {
     .icons {
         flex-direction: column;
     }
+
+    .slice-img {
+        width: 80vw;
+        height: auto;
+    }
 }
